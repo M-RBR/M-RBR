@@ -1,4 +1,14 @@
-## Hi there 👋
+Hoi :) I'm Maxim | Junior Web Developer | Berlin
+
+
+About Me
+
+- coming soon -
+  
+-
+-
+-
+
 
 <!--
 **M-RBR/M-RBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
