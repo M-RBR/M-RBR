@@ -1,4 +1,4 @@
-Hoi :) I'm Maxim | Junior Web Developer | Berlin
+** Hoi :) I'm Maxim | Junior Web Developer | Berlin ** 
 
 ## About Me
 
