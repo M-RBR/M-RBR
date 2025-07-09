@@ -44,7 +44,7 @@ Hey there! I'm a junior web developer passionate about building clean, intuitive
 
 ## 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximRoozen&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-RBR&theme=tokyonight&layout=compact)
 
 ---
 
