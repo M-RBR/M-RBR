@@ -1,5 +1,4 @@
-# 👋 Hoi, I'm Maxim  
-### Junior Web Developer · Based in Berlin 🇩🇪  
+#  Hoi 👋 I'm Maxim  
 
 ---
 
