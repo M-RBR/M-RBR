@@ -4,12 +4,12 @@
 
 ## 🧠 About Me  
 
-Hey there! I'm a junior web developer passionate about building clean, intuitive web experiences. I love working with both frontend and backend technologies and enjoy learning something new every day.
+Hey there! I'm a junior web developer based in Berlin, currently enrolled in an intensive five-month full-time coding bootcamp at Code Academy Berlin.
 
 - 🧑‍💻 Currently working on: a Travel Bucket List app with React + Firebase  
-- 🌱 Learning more about: TypeScript, Firebase security rules, and responsive design  
+- 🌱  Next up: diving into backend development
 - 🎓 Background: Humanities → Tech (ask me about it!)  
-- 🎯 Goals: Craft beautiful, accessible web apps and collaborate on exciting projects  
+- 🎯 My native language is Dutch 🇳🇱 and I'm fluent in English 🇬🇧 and German 🇩🇪. 
 
 ---
 
