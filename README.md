@@ -61,4 +61,4 @@ Hey there! I'm a junior web developer based in Berlin, currently enrolled in an 
 ---
 
 
-Thanks for stopping by! 🌟  
+
