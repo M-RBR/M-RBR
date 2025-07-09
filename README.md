@@ -1,11 +1,11 @@
-# 👋 Hoi, I'm Maxim  
-### Junior Web Developer · Based in Berlin 🇩🇪  
+# Hoi 👋 I'm Maxim  
+### Junior Web Developer · Based in Berlin  
 
 ---
 
 ## 🧠 About Me  
 
-Hey there! I'm Maxim – a junior web developer passionate about building clean, intuitive web experiences. I love working with both frontend and backend technologies and enjoy learning something new every day.
+Hey there! I'm a junior web developer passionate about building clean, intuitive web experiences. I love working with both frontend and backend technologies and enjoy learning something new every day.
 
 - 🧑‍💻 Currently working on: a Travel Bucket List app with React + Firebase  
 - 🌱 Learning more about: TypeScript, Firebase security rules, and responsive design  
@@ -25,15 +25,17 @@ Hey there! I'm Maxim – a junior web developer passionate about building clean,
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<details>
-<summary>📦 Backend & Databases (click to expand)</summary>
+<! --
+
+
+📦 Backend & Databases (click to expand)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 
-</details>
+-->
 
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -50,7 +52,6 @@ Hey there! I'm Maxim – a junior web developer passionate about building clean,
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 
 Thanks for stopping by! 🌟  
 
