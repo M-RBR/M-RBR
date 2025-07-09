@@ -2,15 +2,21 @@
 
 ---
 
-## 🧠 About Me  
+## 🐈 About Me  
 
-Hey there! I'm a junior web developer based in Berlin, currently enrolled in an intensive five-month full-time coding bootcamp at Code Academy Berlin.
+Hey there! I'm a junior web developer based in Berlin, currently enrolled in an intensive five-month, full-time coding bootcamp at Code Academy Berlin. 🐈
 
-- 🧑‍💻 Currently working on: a Travel Bucket List app with React + Firebase  
-- 🌱  Next up: diving into backend development
-- 🎓 Background: Humanities → Tech (ask me about it!)  
-- 🎯 My native language is Dutch 🇳🇱 and I'm fluent in English 🇬🇧 and German 🇩🇪. 
+🧑‍💻 I'm currently building a Travel Bucket List app using React and Firebase
 
+⭐ Next up: diving deeper into backend development
+
+🎓 I hold a PhD in Philosophy and bring over ten years of experience in academic research at universities
+
+🧑‍🎓 In addition to programming languages, I'm passionate about natural languages.
+  - I'm a native Dutch speaker 🇳🇱
+  - Fluent in English 🇬🇧 and German 🇩🇪
+  - Over the years, I’ve studied Ancient Greek, Latin, Hebrew, Syriac, Arabic, French, Italian, and Spanish at varying levels.
+  
 ---
 
 ## 🛠 Tech Stack  
