@@ -2,9 +2,9 @@
 
 ---
 
-##  About Me 🐈
+##  About Me:
 
-Hey there! I'm a junior web developer based in Berlin, currently enrolled in an intensive five-month, full-time coding bootcamp at Code Academy Berlin. 
+I'm a junior web developer based in Berlin, currently enrolled in an intensive five-month, full-time coding bootcamp at Code Academy Berlin. 
 
 🧑‍💻 I'm currently building a Travel Bucket List app using React and Firebase
 
