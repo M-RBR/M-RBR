@@ -1,5 +1,5 @@
-# Hoi 👋 I'm Maxim  
-### Junior Web Developer · Based in Berlin  
+# 👋 Hoi, I'm Maxim  
+### Junior Web Developer · Based in Berlin 🇩🇪  
 
 ---
 
@@ -25,16 +25,13 @@ Hey there! I'm a junior web developer passionate about building clean, intuitive
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<! --
-
-
+<!--
 📦 Backend & Databases (click to expand)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-
 -->
 
 ### ⚙️ Tools & Platforms  
@@ -42,6 +39,12 @@ Hey there! I'm a junior web developer passionate about building clean, intuitive
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximRoozen&theme=tokyonight&layout=compact)
 
 ---
 
@@ -54,4 +57,3 @@ Hey there! I'm a junior web developer passionate about building clean, intuitive
 
 
 Thanks for stopping by! 🌟  
-
