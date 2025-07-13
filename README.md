@@ -12,10 +12,7 @@ I'm a junior web developer based in Berlin, currently enrolled in an intensive f
 
 🎓 I hold a PhD in Philosophy and bring over ten years of experience in academic research at universities
 
-🤓  In addition to programming languages, I like to learn natural languages:  
-  - I'm a native Dutch speaker 🇳🇱  
-  - Fluent in English 🇬🇧 and German 🇩🇪  
-  - Over the years, I’ve studied Ancient Greek, Latin, Hebrew, Syriac, Arabic, French, Italian, and Spanish at varying levels
+🤓  In addition to programming languages, I like to learn natural languages: I'm a native Dutch speaker 🇳🇱, fluent in English 🇬🇧 and German 🇩🇪. Over the years, I’ve studied Ancient Greek, Latin, Hebrew, Syriac, Arabic, French, Italian, and Spanish at varying levels.
 
 ---
 
