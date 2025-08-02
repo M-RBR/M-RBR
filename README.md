@@ -2,7 +2,7 @@
 
 I'm an aspiring full-stack web developer based in Berlin, currently enrolled in an intensive five-month, full-time coding bootcamp at Code Academy Berlin. 
 
-🧑‍💻 At the moment, I'm diving deeper into backend development by building Tandem Match - a social app for people to find locals to practice foreign languages with - using the MERN stack. 
+🧑‍💻 At the moment, I'm diving deeper into backend development by building Tandem Match - a social app for finding locals to practice foreign languages with - using the MERN stack. 
 
 🎓 I completed a PhD in Philosophy and bring over ten years of experience in academic research at universities.
 
