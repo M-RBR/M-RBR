@@ -1,10 +1,8 @@
-#  Hoi 👋 I'm Maxim  
+#  Welcome 👋 I'm Maxim  
 
-I'm a junior web developer based in Berlin, currently enrolled in an intensive five-month, full-time coding bootcamp at Code Academy Berlin. 
+I'm an aspiring full-stack web developer based in Berlin, currently enrolled in an intensive five-month, full-time coding bootcamp at Code Academy Berlin. 
 
-🧑‍💻 I'm currently building a Travel Bucket List app using React and Firebase.
-
-⭐ Next up: diving deeper into backend development.
+🧑‍💻 At the moment, I'm diving deeper into backend development by building Tandem Match - a social app for people to find locals to practice foreign languages with - using the MERN stack. 
 
 🎓 I completed a PhD in Philosophy and bring over ten years of experience in academic research at universities.
 
@@ -23,14 +21,13 @@ I'm a junior web developer based in Berlin, currently enrolled in an intensive f
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<!--
 📦 Backend & Databases (click to expand)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
--->
+
 
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
