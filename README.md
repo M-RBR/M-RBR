@@ -1,6 +1,6 @@
 #  Welcome 👋 I'm Maxim  
 
-I'm an aspiring software engineer and a graduate of an intensive, five-month bootcamp in full-stack and AI web development at [Code Academy Berlin] (https://www.codeacademyberlin.com/). 
+I'm an aspiring software engineer and a graduate of an intensive, five-month bootcamp in full-stack and AI web development at [GitHub Pages](https://pages.github.com/).
 
 🧑‍💻 At the moment, I'm diving deeper into backend development by building Tandem Match - a social app for finding locals to practice foreign languages with - using the MERN stack. 
 
