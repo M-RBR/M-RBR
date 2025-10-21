@@ -4,7 +4,7 @@ I am a software engineer and graduate of a five-month intensive full-stack and A
 
 🧑‍💻 At the moment, I'm diving deeper into backend development by building Tandem Match - a social app for finding locals to practice foreign languages with - using the MERN stack. 
 
-🎓 I completed a PhD in Philosophy and bring over ten years of experience in academic research at universities.
+🎓 I completed a PhD in Philosophy and bring nearly eight years of experience in academic research at universities.
 
 🤓 Besides programming languages, I like to learn natural languages: I'm a native Dutch speaker 🇳🇱, fluent in English 🇬🇧 and German 🇩🇪, and I’ve studied Ancient Greek, Latin, Hebrew, Syriac, Arabic, French, Italian, and Spanish at varying levels.
 
