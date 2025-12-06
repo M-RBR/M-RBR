@@ -2,8 +2,6 @@
 
 I am a software engineer and a graduate of a five-month intensive full-stack and AI web development bootcamp at [Code Academy Berlin](https://www.codeacademyberlin.com/).
 
-🧑‍💻 At the moment, I'm diving deeper into backend development by building Tandem Match - a social app for finding locals to practice foreign languages with - using the MERN stack. 
-
 🎓 I completed a PhD in Philosophy and bring nearly eight years of experience in academic research at universities.
 
 🤓 Besides programming languages, I like to learn natural languages: I'm a native Dutch speaker 🇳🇱, fluent in English 🇬🇧 and German 🇩🇪, and I’ve studied Ancient Greek, Latin, Hebrew, Syriac, Arabic, French, Italian, and Spanish at varying levels.
