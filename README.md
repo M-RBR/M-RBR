@@ -1,6 +1,6 @@
 #  Hoi 👋 I'm Maxim  
 
-I am a software engineer and a graduate of a five-month intensive full-stack and AI web development bootcamp at [Code Academy Berlin](https://www.codeacademyberlin.com/).
+I am a software engineer and a graduate of a full-stack and AI web development bootcamp at [Code Academy Berlin](https://www.codeacademyberlin.com/).
 
 🎓 I completed a PhD in Philosophy and bring nearly eight years of experience in academic research at universities.
 
