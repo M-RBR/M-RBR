@@ -38,12 +38,6 @@ I am a software engineer and a graduate of a full-stack and AI web development b
 
 ---
 
-## 📊 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-RBR&theme=tokyonight&layout=compact)
-
----
-
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximrubenbenjamin/)
