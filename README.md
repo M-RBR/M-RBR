@@ -1,8 +1,10 @@
 #  Hoi 👋 I'm Maxim  
 
-I am a software engineer and graduate of a full-stack and AI web development bootcamp at [Code Academy Berlin](https://www.codeacademyberlin.com/).
+I am a software engineer and graduate of a full-stack and AI web development bootcamp at Code Academy Berlin. On this page, you can find some of the projects I built during the course. 
 
 🎓 I completed a PhD in Philosophy and bring nearly eight years of experience in academic research at universities.
+
+👨‍💻 Currently, I am working as a research associate at the Ludwig Maximilian University of Munich, where I combine my interests in coding and humanities research. 
 
 🤓 Besides programming languages, I like to learn natural languages: I'm a native Dutch speaker 🇳🇱, fluent in English 🇬🇧 and German 🇩🇪, and I’ve studied Ancient Greek, Latin, Hebrew, Syriac, Arabic, French, Italian, and Spanish at varying levels.
 
