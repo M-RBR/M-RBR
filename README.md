@@ -40,12 +40,6 @@ I am a software engineer and graduate of an intensive full-stack and AI web deve
 
 ---
 
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximrubenbenjamin/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:roozenma@gmail.com)
-
----
 
 
 
